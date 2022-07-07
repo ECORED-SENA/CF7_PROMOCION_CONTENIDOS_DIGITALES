@@ -282,7 +282,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img128.png', alt='')
                 .col-lg-6.my-3.bg23.p-4
                   .text-white
-                    p(data-aos="fade-down") Con herramientas digitales: es importante tener hardware o software de almacenamiento para guardar y administrar los datos informáticos de la organización, contando con recursos de seguridad para la protección contra fraude, robo o duplicado de la información.
+                    p(data-aos="fade-down") Con herramientas digitales: es importante tener #[i hardware] o #[i software] de almacenamiento para guardar y administrar los datos informáticos de la organización, contando con recursos de seguridad para la protección contra fraude, robo o duplicado de la información.
                     p(data-aos="fade-down").mb-0 Con manuales o políticas de seguridad: crear protocolos o reglas que permitan gestionar la seguridad de la información y asignar responsables en diferentes niveles del proceso para salvaguardar los datos.
 
               p(data-aos="fade-down").mb-5 Con personal calificado: que pueda reaccionar rápidamente ante cualquier riesgo y que eleve la confianza en el tratamiento de los datos. La administración de los datos y la información deben protegerse con estrictos controles por parte del departamento de informática con el que cuente la empresa.
@@ -293,11 +293,11 @@
                 .col-lg-4.bg24.rad.rw.p-4
                   .text-center  
                     h5 Confidencialidad
-                    p Priorizar y categorizar la información con la debida autorización
+                    p Priorizar y categorizar la información con la debida autorización.
                 .col-lg-4.bg25.rad.rw.p-4
                   .text-center.text-white  
                     h5 Integridad
-                    p tener un registro de cada dato almacenado, su historial de modificación, informes de duplicidad, estado de errores, toma de decisiones, entre otros.
+                    p Tener un registro de cada dato almacenado, su historial de modificación, informes de duplicidad, estado de errores, toma de decisiones, entre otros.
                 .col-lg-4.bg26.rad.rw.p-4
                   .text-center  
                     h5 Disponibilidad

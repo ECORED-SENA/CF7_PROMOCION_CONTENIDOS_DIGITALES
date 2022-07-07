@@ -29,10 +29,10 @@
         .bloque-texto-b.color-secundario.p-4(data-aos="fade-down")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 Según Philip Kotler y Keller (2006), el plan de marketing es un “documento escrito que resume lo que el especialista de marketing ha aprendido sobre el mercado, que indica cómo la empresa pretende alcanzar sus objetivos de marketing y que facilita, dirige y coordina los esfuerzos de marketing”. #[b Philip Kotler y Keller (2006), ]
+            p.mb-0 El plan de #[em marketing] es un “documento escrito que resume lo que el especialista de #[em marketing] ha aprendido sobre el mercado, que indica cómo la empresa pretende alcanzar sus objetivos de #[em marketing] y que facilita, dirige y coordina los esfuerzos de #[em marketing]”. #[b Philip Kotler y Keller (2006), ]
             i.fas.fa-quote-right 
 
-        p(data-aos="fade-down") Hoy día, los equipos de mercadeo, con el liderazgo del director de marketing, reúnen en ese plan, todas las fases que la empresa desarrolla para su desempeño en el mercado, tales como el análisis del macro y microentorno, el diseño de objetivos, definición de estrategias de marketing mix, la ejecución del plan de acción, mecanismos de seguimiento, entre otros.
+        p(data-aos="fade-down") Hoy día, los equipos de mercadeo, con el liderazgo del director de #[i marketing], reúnen en ese plan, todas las fases que la empresa desarrolla para su desempeño en el mercado, tales como el análisis del macro y microentorno, el diseño de objetivos, definición de estrategias de #[i marketing] mix, la ejecución del plan de acción, mecanismos de seguimiento, entre otros.
     .bg2
       .row.justify-content-center.align-items-center.mb-5      
         .col-lg-10
@@ -40,16 +40,16 @@
 
       .row.justify-content-center.align-items-stretch.mb-5      
         .col-lg-6
-          p(data-aos="fade-down") Es posible afirmar que todas las empresas tienen un plan de marketing, pero no todas los formalizan o lo convierten en una práctica constante; otras empresas lo practican, pero no lo redactan o solo se queda como un documento archivado en la biblioteca de la oficina.
+          p(data-aos="fade-down") Es posible afirmar que todas las empresas tienen un plan de #[i marketing], pero no todas los formalizan o lo convierten en una práctica constante; otras empresas lo practican, pero no lo redactan o solo se queda como un documento archivado en la biblioteca de la oficina.
 
-          p(data-aos="fade-down") Las nuevas tecnologías, traen consigo nuevas opciones para llegarles a los clientes, por tanto, el plan de marketing también puede ser digital, por ejecutarse en internet o con apoyo de herramientas digitales.  
+          p(data-aos="fade-down") Las nuevas tecnologías, traen consigo nuevas opciones para llegarles a los clientes, por tanto, el plan de #[i marketing] también puede ser digital, por ejecutarse en internet o con apoyo de herramientas digitales.  
 
         .col-lg-6.bg3.rounded-3.p-3
           .row.justify-content-center.align-items-center    
             .col-lg-4
               img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img6.png', alt='')          
             .col-lg-8
-              p(data-aos="fade-down").mb-0 Es así, como podemos definir el plan de marketing digital como el “conjunto de actividades que una empresa (o persona) ejecuta en línea para atraer nuevos negocios, crear relaciones y desarrollar una identidad de marca, entre otros alcances”.
+              p(data-aos="fade-down").mb-0 Es así, como podemos definir el plan de #[i marketing] digital como el “conjunto de actividades que una empresa (o persona) ejecuta en línea para atraer nuevos negocios, crear relaciones y desarrollar una identidad de marca, entre otros alcances”.
       p(data-aos="fade-down").mb-5.text-center #[b Para construir un plan de #[i marketing], los directivos de la empresa deben responder los siguientes cuestionamientos: ]
 
     .row.justify-content-center.align-items-center.mb-5      
@@ -82,8 +82,8 @@
       .col-auto.d-none.d-lg-block.p-0.ps-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img8.png', alt='')       
       .col-lg-11
-        p(data-aos="fade-down") Muchas de las empresas en el país no destinan recursos para invertir en marketing, considerándolo un procedimiento sin importancia o innecesario. El plan de mercadeo es importante para garantizar el éxito de la empresa y potenciar su portafolio de productos o servicios.
-        p(data-aos="fade-down").mb-0 Cuando se habla de un plan de marketing digital, también se presentan otros cuestionamientos igualmente importantes, tales como: 
+        p(data-aos="fade-down") Muchas de las empresas en el país no destinan recursos para invertir en #[i marketing], considerándolo un procedimiento sin importancia o innecesario. El plan de mercadeo es importante para garantizar el éxito de la empresa y potenciar su portafolio de productos o servicios.
+        p(data-aos="fade-down").mb-0 Cuando se habla de un plan de #[i marketing] digital, también se presentan otros cuestionamientos igualmente importantes, tales como: 
 
     SlyderF.mb-5.px-5(columnas="col-lg-4")(data-aos="fade-right")
       .crd.crd--100.tarjeta.color-primario.p-4
@@ -140,7 +140,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.2 Tipos de planes de mercadeo
 
-    p(data-aos="fade-down").mb-5 Como se ha mencionado, el plan de mercadeo (o plan de marketing) es un documento que presenta los objetivos que debe alcanzar la empresa con la finalidad de posicionar su portafolio de productos y servicios en el mercado objetivo. De acuerdo con su alcance, se distinguen dos tipos de planes de mercadeo: estratégicos y tácticos. 
+    p(data-aos="fade-down").mb-5 Como se ha mencionado, el plan de mercadeo (o plan de #[i marketing]) es un documento que presenta los objetivos que debe alcanzar la empresa con la finalidad de posicionar su portafolio de productos y servicios en el mercado objetivo. De acuerdo con su alcance, se distinguen dos tipos de planes de mercadeo: estratégicos y tácticos. 
 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/img17.svg', alt='')
 
@@ -152,7 +152,7 @@
               .row.justify-content-center.align-items-center.pt-4.mb-5(data-aos="flip-down")
                 .col-lg-4.up
                   h4.title.text-center.p-2 Plan de mercadeo estratégico
-              p(data-aos="fade-down").mb-5 Es el que define la estrategia general para un mercado en específico. Se caracteriza porque contiene información del macroentorno de marketing y presenta las variables que no pueden ser controladas por la empresa. 
+              p(data-aos="fade-down").mb-5 Es el que define la estrategia general para un mercado en específico. Se caracteriza porque contiene información del macroentorno de #[i marketing] y presenta las variables que no pueden ser controladas por la empresa. 
               p(data-aos="fade-down").mb-5.text-center #[b Es importante analizar las siguientes variables del entorno del negocio para su vigilancia y análisis:] 
               .row.justify-content-center.align-items-stretch.mb-5
                 .col-lg-8.my-3
@@ -169,7 +169,7 @@
               .row.justify-content-center.align-items-center.pt-4.mb-5(data-aos="flip-down")
                 .col-lg-4.up
                   h4.title.text-center.p-2 Plan de mercadeo táctico 
-              p(data-aos="fade-down").mb-5 Es la parte del plan de mercadeo que combina los esfuerzos de la empresa con los canales que se aplicarán para obtener una ventaja competitiva del producto. Este plan presenta el “día a día” del marketing, porque desarrolla las actividades que el equipo de ventas debe ejecutar para ganar espacio en el mercado.  
+              p(data-aos="fade-down").mb-5 Es la parte del plan de mercadeo que combina los esfuerzos de la empresa con los canales que se aplicarán para obtener una ventaja competitiva del producto. Este plan presenta el “día a día” del #[i marketing], porque desarrolla las actividades que el equipo de ventas debe ejecutar para ganar espacio en el mercado.  
               p(data-aos="fade-down").mb-5.text-center #[b Las variables que deben analizarse en el plan de mercadeo táctico, son:]
               .row.justify-content-center.align-items-stretch.mb-4
                 .col-lg-4.bg6.p-4.text-center.text-white.rad.my-3
@@ -191,7 +191,7 @@
       h2 1.3 Estructura de un plan de mercadeo
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-8
-        p(data-aos="fade-down").mb-5 El plan de mercadeo es interdisciplinario, pues en su elaboración intervienen diferentes áreas de la empresa, financiera, administrativa, operativa, etc. Así mismo, hay diferentes tamaños de empresas y tipos de organizaciones, lo que hace difícil estandarizar la estructura del plan de marketing. Las condiciones del entorno, las necesidades de los clientes, la cultura, el presupuesto, el portafolio de productos y servicios, entre otras variables, son determinantes al momento de crear el documento. 
+        p(data-aos="fade-down").mb-5 El plan de mercadeo es interdisciplinario, pues en su elaboración intervienen diferentes áreas de la empresa, financiera, administrativa, operativa, etc. Así mismo, hay diferentes tamaños de empresas y tipos de organizaciones, lo que hace difícil estandarizar la estructura del plan de #[i marketing]. Las condiciones del entorno, las necesidades de los clientes, la cultura, el presupuesto, el portafolio de productos y servicios, entre otras variables, son determinantes al momento de crear el documento. 
         .row.justify-content-start.align-items-center.mb-4        
           .col-auto.d-none.d-lg-block.p-0.ps-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.png', alt='')       
@@ -201,7 +201,7 @@
           p(data-aos="fade-down").mb-0 El desarrollo del plan de mercadeo requiere de trabajo colaborativo y organizado que cuente con la discusión de todo el equipo de dirección y, en lo posible, con la participación de todos los integrantes de la empresa. De esta forma, todo el equipo se sentirá vinculado y comprometido para cumplir con los objetivos fijados y se obtendrán mejores resultados.
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img23.png', alt='')
-    p(data-aos="fade-down").mb-5.text-center #[b Las etapas o fase del plan de mercadeo son variadas, no hay un estándar. Por ello, se recomienda una estructura sencilla que puede adaptarse al tamaño y alcance de la empresa. Las fases más comunes en la elaboración de un plan de marketing son:] 
+    p(data-aos="fade-down").mb-5.text-center #[b Las etapas o fase del plan de mercadeo son variadas, no hay un estándar. Por ello, se recomienda una estructura sencilla que puede adaptarse al tamaño y alcance de la empresa. Las fases más comunes en la elaboración de un plan de #[i marketing] son:] 
 
     .bg7
       .row.justify-content-center.align-items-center.mb-5      
@@ -233,7 +233,7 @@
 
             .row.justify-content-center.align-items-center(numero="4" titulo="Establecer los objetivos     ")
               .col-lg-7
-                p Los objetivos de un plan de mercadeo, definen el alcance y metas que quieren lograrse con las acciones de marketing, en ese sentido, los objetivos deben ser medibles y realistas de acuerdo con el tamaño de la empresa y el contexto del mercado. No se puede olvidar el público objetivo al que se quiere llegar, pues las acciones de marketing impactan directamente el mercado donde se encuentra dicho público y es necesario tener un buen enfoque para que todo el proceso se haga con eficiencia.
+                p Los objetivos de un plan de mercadeo, definen el alcance y metas que quieren lograrse con las acciones de #[i marketing], en ese sentido, los objetivos deben ser medibles y realistas de acuerdo con el tamaño de la empresa y el contexto del mercado. No se puede olvidar el público objetivo al que se quiere llegar, pues las acciones de #[i marketing] impactan directamente el mercado donde se encuentra dicho público y es necesario tener un buen enfoque para que todo el proceso se haga con eficiencia.
               .col-lg-4
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img28.png', alt='')
 
@@ -245,13 +245,13 @@
 
             .row.justify-content-center.align-items-center(numero="6" titulo="Seguimiento y control")
               .col-lg-7
-                p El control del plan de marketing es, quizás, la actividad más importante luego del plan de acción. En el seguimiento y control se diseñan indicadores o puntos clave donde se hará validación del éxito o fracaso de las acciones de marketing. No es eficiente medir un plan de mercadeo si no se hacen acciones de control como la satisfacción del cliente, cantidad de clientes nuevos, cantidad de clientes que no están activos, eficacia de la publicidad, entre otros.
+                p El control del plan de #[i marketing] es, quizás, la actividad más importante luego del plan de acción. En el seguimiento y control se diseñan indicadores o puntos clave donde se hará validación del éxito o fracaso de las acciones de #[i marketing]. No es eficiente medir un plan de mercadeo si no se hacen acciones de control como la satisfacción del cliente, cantidad de clientes nuevos, cantidad de clientes que no están activos, eficacia de la publicidad, entre otros.
               .col-lg-4
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img30.png', alt='')
 
             .row.justify-content-center.align-items-center(numero="7" titulo="Presupuesto")
               .col-lg-7
-                p Un presupuesto del plan de mercadeo es la sección que enlista el dinero que la organización está dispuesta a invertir en las acciones de marketing durante el tiempo de desarrollo del plan, que puede ser trimestral, anual, semestral, etc.
+                p Un presupuesto del plan de mercadeo es la sección que enlista el dinero que la organización está dispuesta a invertir en las acciones de #[i marketing] durante el tiempo de desarrollo del plan, que puede ser trimestral, anual, semestral, etc.
 
                 p El presupuesto puede incluir diferentes rubros o partidas para relacionar los gastos en cada actividad planificada. Por ejemplo, inversiones en publicidad en línea, publicidad no tradicional, contratación de talento humano, creación de contenido digital, entre otros. Lo anterior en relación con las necesidades planteadas en los objetivos del plan y el orden de importancia de las acciones.
               .col-lg-4

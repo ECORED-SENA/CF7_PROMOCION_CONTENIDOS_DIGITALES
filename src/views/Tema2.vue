@@ -26,7 +26,7 @@
       .col-lg-6
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img34.png', alt='')          
       .col-lg-6
-        p(data-aos="fade-down").mb-3 La venta, propiamente dicha, es el proceso “motor” de la empresa. Todas las organizaciones destinan sus recursos a proveer servicios al cliente (Service Profit Chain) como estrategia para aumentar de forma escalonada el ingreso por concepto de la transacción entre cliente-empresa. De acuerdo con ese concepto, todos los empleados de la organización, sin importar su rol, se convierten en “vendedores”, porque las comunicaciones, relaciones y contactos, pueden llevar al cierre o no de la venta del producto.   
+        p(data-aos="fade-down").mb-3 La venta, propiamente dicha, es el proceso “motor” de la empresa. Todas las organizaciones destinan sus recursos a proveer servicios al cliente (#[i Service Profit Chain]) como estrategia para aumentar de forma escalonada el ingreso por concepto de la transacción entre cliente-empresa. De acuerdo con ese concepto, todos los empleados de la organización, sin importar su rol, se convierten en “vendedores”, porque las comunicaciones, relaciones y contactos, pueden llevar al cierre o no de la venta del producto.   
         .row.justify-content-start.align-items-center.mb-3        
           .col-auto.d-none.d-lg-block.p-0.ps-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img35.png', alt='')       
@@ -203,7 +203,6 @@
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img58.png', alt='')         
       .col-lg-8
-        p(data-aos="fade-down") El ser humano es por su naturaleza un individuo social, es decir, siente la necesidad de ser aceptado e identificado por la sociedad o comunidad donde interactúa, razón por la cual se integra a ella participando de grupos formales e informales. 
         .bloque-texto-b.color-secundario.p-4(data-aos="fade-down")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -311,7 +310,19 @@
             .row.justify-content-center.align-items-center(numero="2" titulo="Estrategias promocionales para los canales de distribución")
               .col-lg-11
                 p En los canales de distribución se establecen relaciones entre los fabricantes y los intermediarios minoristas y mayoristas y proveedores y sobre ellos la empresa debe servirlos y dirigirles acciones que estimulen la compra. 
-                p Realizar estrategias de promoción dirigidas a los canales de distribución pretende varios propósitos.            
+                p Realizar estrategias de promoción dirigidas a los canales de distribución pretende varios propósitos.
+                .row.justify-content-center.align-items-stretch.my-4         
+                  .col-lg-3.bg8.pf.text-white.p-4(data-aos="fade-left")
+                    p.text-center(data-aos="fade-down").mb-0 Obtener la distribución inicial. 
+
+                  .col-lg-3.bg9.pf.text-white.p-4(data-aos="fade-down")
+                    p.text-center(data-aos="fade-down").mb-0 Incrementar el número y tamaño de los pedidos.
+
+                  .col-lg-3.bg8.pf.text-white.p-4(data-aos="fade-right")
+                    p.text-center(data-aos="fade-down").mb-0 Fomentar la participación del canal en las promociones al consumidor. 
+
+                  .col-lg-3.bg9.pf.text-white.p-4(data-aos="fade-down")
+                    p.text-center(data-aos="fade-down").mb-0 Incrementar el tráfico en el establecimiento.                                             
               .col-lg-4
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img69.png', alt='')              
               .col-lg-7
@@ -411,7 +422,8 @@
 
                   p(data-aos="fade-down").mb-0 Abordar el tema personal: que los beneficios ayuden a mejorar aspectos como menos horas extras, reducción del estrés, entre otros aspectos que puedan mejorarse de la vida del comprador.                 
               .col-lg-5 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img76.png', alt='')       
+                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img76.png', alt='') 
+            p(data-aos="fade-down").mb-5 Este método pretende abordar aspectos técnicos y potenciales a nivel del cliente del producto.
             .row.justify-content-start.align-items-center.mb-4(data-aos="flip-down")
               .col-lg-4.up
                 h4.title.text-center.p-2 El vendedor desafiante
@@ -503,7 +515,7 @@
               .col-lg-4.up
                 h4.title.text-center.p-2 Herramientas para la venta
 
-            p(data-aos="fade-down").mb-5 Cuando se habla de herramientas para la venta, se hace mención de aquellas tecnologías digitales que la empresa utiliza para automatizar la relación con el cliente, por ejemplo: la adquisición de un software que gestione la relación con el cliente (CRM), un sistema de bases de datos que filtre los clientes para su análisis o un software que permita enviar masivamente la información a los clientes, entre otras. De acuerdo con lo anterior, hay herramientas off line y on line:
+            p(data-aos="fade-down").mb-5 Cuando se habla de herramientas para la venta, se hace mención de aquellas tecnologías digitales que la empresa utiliza para automatizar la relación con el cliente, por ejemplo: la adquisición de un #[i software] que gestione la relación con el cliente (CRM), un sistema de bases de datos que filtre los clientes para su análisis o un #[i software] que permita enviar masivamente la información a los clientes, entre otras. De acuerdo con lo anterior, hay herramientas #[i off line] y #[i on line]:
 
             .row.justify-content-center.align-items-stretch.mb-5  
               .col-lg-4
@@ -511,7 +523,7 @@
 
               .col-lg-4.bg6.rad.p-4.rw
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img91.png', alt='')                
-                h4.text-white.text-center Herramientas #[b Off line]
+                h4.text-white.text-center Herramientas #[b #[i Off line]]
                 ul.lista-ul--color
                   li 
                     i.lista-ul__vineta
@@ -527,7 +539,7 @@
                     p.mb-0.text-white Gestión de la marca.                                          
               .col-lg-4.bg6.rad.p-4.rw
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img92.png', alt='')                
-                h4.text-white.text-center Herramientas #[b On-line]
+                h4.text-white.text-center Herramientas #[b #[i On-line]]
                 ul.lista-ul--color
                   li 
                     i.lista-ul__vineta
