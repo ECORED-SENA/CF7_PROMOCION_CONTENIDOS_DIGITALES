@@ -199,6 +199,8 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.3 Estrategia y técnicas de ventas     
 
+    p(data-aos="fade-down").mb-5 La estrategia de ventas son acciones a mediano o largo plazo que buscan el cumplimiento de los objetivos del plan de mercadeo, plan de ventas o en sí, cualquier acción que emprenda la organización, conlleva la ejecución de estrategias. En este sentido, una estrategia es un conjunto de decisiones sobre actividades que la empresa debe ejecutar para alcanzar un objetivo planteado.
+
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img58.png', alt='')         
