@@ -51,58 +51,58 @@
       .col-lg-3.up
         h4.title.text-center.p-2 Tipos de venta 
 
-    p(data-aos="fade-down").mb-5 La venta es el proceso transaccional que se efectúa entre un comprador y un vendedor. Estos roles pueden ser ejercidos por empresas o personas con otras empresas y personas. Las estrategias de negociación y la forma cómo se desarrolla la venta dependen del sector, el tipo de producto o servicio y las diversas formas de pago. Entre los tipos de ventas se tienen:
+    p(data-aos="fade-down") La venta es el proceso transaccional que se efectúa entre un comprador y un vendedor. Estos roles pueden ser ejercidos por empresas o personas con otras empresas y personas. Las estrategias de negociación y la forma cómo se desarrolla la venta dependen del sector, el tipo de producto o servicio y las diversas formas de pago. Entre los tipos de ventas se tienen:
 
-    SlyderF.mb-5.px-5(columnas="col-lg-4")(data-aos="fade-right")
-      .crd1.crd1--100
-        .row.justify-content-center
+    SlyderF.margt(columnas="col-lg-4")(data-aos="fade-right")
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/1.png' alt='')
             .img-text.text-center 
               h5.pt-2.mb-1 Ventas directas
               p.pb-2 Es el contacto directo entre vendedor y comprador.   
-
-      .crd1.crd1--100
-        .row.justify-content-center
+      
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/2.png' alt='')
             .img-text.text-center 
               h5.pt-2.mb-1 Ventas industriales
               p.pb-2 Es la venta entre una empresa distribuidora y la compradora.
 
-      .crd1.crd1--100
-        .row.justify-content-center
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/3.png' alt='')
             .img-text.text-center 
               h5.pt-2.mb-1 Ventas indirectas
               p.pb-2 Se realiza a través de un medio de comunicación o telefónico.
 
-      .crd1.crd1--100
-        .row.justify-content-center
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/4.png' alt='')
             .img-text.text-center 
               h5.pt-2.mb-1 Ventas electrónicas
               p.pb-2 Se realizan a través de internet, usando una tienda virtual.
 
-      .crd1.crd1--100
-        .row.justify-content-center
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/5.png' alt='')
             .img-text.text-center 
               h5.pt-2.mb-1 Ventas intermediadas
               p.pb-2 Es la que se realiza por intermedio de un corredor o asesor. 
 
-      .crd1.crd1--100
-        .row.justify-content-center
+      .crd1.crd1--100.pt-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-12
             img.img-a.img-t(src='@/assets/curso/temas/6.png' alt='')
             .img-text.text-center.bot
               h5.pt-2.mb-1 Otros tipos de ventas
               p.pb-2 Aquellas que no clasifican en alguna categoría anterior o bien son demasiado especializadas de acuerdo con el sector.
 
-    p(data-aos="fade-down") Así  como existen tipos de ventas a partir de la forma cómo se intercambia el producto por un valor, también se encuentran diferentes tipos de vendedores. Siguiendo a Jobber y Lancaster (2012), se encuentran los siguientes tipos de vendedores: tomadores de órdenes, creadores de órdenes y captadores de órdenes (p. 30).
+    p(data-aos="fade-down").margt Así  como existen tipos de ventas a partir de la forma cómo se intercambia el producto por un valor, también se encuentran diferentes tipos de vendedores. Siguiendo a Jobber y Lancaster (2012), se encuentran los siguientes tipos de vendedores: tomadores de órdenes, creadores de órdenes y captadores de órdenes (p. 30).
     p(data-aos="fade-down").mb-5 Entre los tomadores de órdenes se distinguen varias subcategorías de acuerdo con el rol que desempeñan en el departamento de ventas. Estos son:
 
     .row.justify-content-center.align-items-stretch.mb-5         
