@@ -45,7 +45,7 @@
         p(data-aos="fade-down") Para la realización de la venta debe tenerse en cuenta varias etapas y a partir de ahí desencadenan el proceso transaccional para el intercambio de bienes. La venta tiene varias etapas, definidas por el grado de interacción del vendedor con el cliente. Estas etapas son: etapa de preventa, etapa de ventas y etapa de postventa, las cuales se analizarán más adelante.
 
       .col-lg-6
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img34.png', alt='')
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img36.png', alt='')
 
     .row.justify-content-start.align-items-center.pt-4.mb-5(data-aos="flip-down")
       .col-lg-3.up
@@ -57,32 +57,50 @@
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img37.png' alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/1.png' alt='')
+            .img-text.text-center 
+              h5.pt-2.mb-1 Ventas directas
+              p.pb-2 Es el contacto directo entre vendedor y comprador.   
 
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img38.png' alt='')  
+            img.img-a.img-t(src='@/assets/curso/temas/2.png' alt='')
+            .img-text.text-center 
+              h5.pt-2.mb-1 Ventas industriales
+              p.pb-2 Es la venta entre una empresa distribuidora y la compradora.
 
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img39.png' alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/3.png' alt='')
+            .img-text.text-center 
+              h5.pt-2.mb-1 Ventas indirectas
+              p.pb-2 Se realiza a través de un medio de comunicación o telefónico.
 
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img40.png' alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/4.png' alt='')
+            .img-text.text-center 
+              h5.pt-2.mb-1 Ventas electrónicas
+              p.pb-2 Se realizan a través de internet, usando una tienda virtual.
 
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img41.png' alt='')  
+            img.img-a.img-t(src='@/assets/curso/temas/5.png' alt='')
+            .img-text.text-center 
+              h5.pt-2.mb-1 Ventas intermediadas
+              p.pb-2 Es la que se realiza por intermedio de un corredor o asesor. 
 
       .crd1.crd1--100
         .row.justify-content-center
           .col-12
-            img.img-a.img-t(src='@/assets/curso/temas/img42.png' alt='')
+            img.img-a.img-t(src='@/assets/curso/temas/6.png' alt='')
+            .img-text.text-center.bot
+              h5.pt-2.mb-1 Otros tipos de ventas
+              p.pb-2 Aquellas que no clasifican en alguna categoría anterior o bien son demasiado especializadas de acuerdo con el sector.
 
     p(data-aos="fade-down") Así  como existen tipos de ventas a partir de la forma cómo se intercambia el producto por un valor, también se encuentran diferentes tipos de vendedores. Siguiendo a Jobber y Lancaster (2012), se encuentran los siguientes tipos de vendedores: tomadores de órdenes, creadores de órdenes y captadores de órdenes (p. 30).
     p(data-aos="fade-down").mb-5 Entre los tomadores de órdenes se distinguen varias subcategorías de acuerdo con el rol que desempeñan en el departamento de ventas. Estos son:
@@ -112,8 +130,9 @@
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-10
         .bg1.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Hoy día, teniendo en cuenta el internet, las nuevas tecnologías y los nuevos modelos de negocio, surgen formas de comercialización diferentes que, a su vez, generan roles diferentes al momento de darse la transacción de la venta, los cuales resulta importante identificarlos para apoyar el proceso en cualquiera de sus etapas. 
+          p(data-aos="fade-down").mb-0 Hoy día, teniendo en cuenta el internet, las nuevas tecnologías y los nuevos modelos de negocio, surgen formas de comercialización diferentes que, a su vez, generan roles diferentes al momento de darse la transacción de la venta, los cuales resulta importante identificarlos para apoyar el proceso en cualquiera de sus etapas.
 
+    Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.2 Proceso de la venta
     .row.justify-content-start.align-items-center.mb-3        
@@ -225,7 +244,7 @@
           SlyderF.mb-5.px-5(columnas="col-lg-4")(data-aos="fade-right")
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img61.png' alt='AvatarTop')
               .text-center 
                 h5 Equipo de ventas
@@ -233,7 +252,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img62.png' alt='AvatarTop')
               .text-center 
                 h5 Estrategia de precios
@@ -241,7 +260,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img63.png' alt='AvatarTop')
               .text-center 
                 h5 Portafolio de productos
@@ -249,7 +268,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img64.png' alt='AvatarTop')
               .text-center 
                 h5 Servicio al cliente
@@ -257,7 +276,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img65.png' alt='AvatarTop')
               .text-center 
                 h5 Redes sociales
@@ -265,7 +284,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img66.png' alt='AvatarTop')
               .text-center 
                 h5 Cobertura
@@ -273,7 +292,7 @@
 
             .crd.crd--100.tarjeta.bgw.p-4.b-sw
               .row.justify-content-center.mb-3
-                .col-8
+                .col-12
                   img.img-a.img-t(src='@/assets/curso/temas/img67.png' alt='AvatarTop')
               .text-center 
                 h5 Penetración
@@ -451,18 +470,30 @@
                 p(data-aos="fade-down").mb-0 En este tipo de técnica, el vendedor se presenta como un experto en el área para determinar cuál es la necesidad de la persona y cuál es la solución que se le puede ofrecer para resolver sus problemas. Tiene como finalidad establecer un vínculo perdurable con el cliente y para ello, realiza las siguientes acciones:
 
             .row.justify-content-center.align-items-center.mb-5
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img80.png', alt='')
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img81.png', alt='')   
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img82.png', alt='')
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img83.png', alt='')
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img84.png', alt='')   
-              .col-lg-4 
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img85.png', alt='')  
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p1.png', alt='')
+                .bgp1.p-3(data-aos="flip-down")
+                  p.text-center.mb-0.text-white Investigación del cliente y de la competencia del mercado.
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p2.png', alt='')
+                .bgp2.p-3(data-aos="flip-down")
+                  p.text-center.mb-0.text-white Identificación de las necesidades del cliente y su oferta.   
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p3.png', alt='')
+                .bgp1.p-3(data-aos="flip-down")
+                  p.text-center.mb-0.text-white Escuchar al cliente para obtener una mayor información.
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p4.png', alt='')
+                .bgp2.p-3(data-aos="flip-down")
+                  p.text-center.mb-0.text-white Comunicar los beneficios que ofrece el producto.
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p5.png', alt='')
+                .bgp1.p-3(data-aos="flip-down")
+                  p.text-center.mb-4.text-white Convertirse en un aliado para el cliente.   
+              .col-lg-4.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/p6.png', alt='')
+                .bgp2.p-3(data-aos="flip-down")
+                  p.text-center.mb-0.text-white “Vender soluciones”, no solo el producto en sí.   
 
             .row.justify-content-start.align-items-center.mb-4(data-aos="flip-down")
               .col-lg-4.up
@@ -507,7 +538,7 @@
               .col-lg-6 
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/h4.png', alt='')
           .row.justify-content-center.align-items-center.mb-5   
-            .col-lg-11.bg14.p-5
+            .col-lg-12.bg14.p-5.px-0
               .row.justify-content-center.align-items-center  
                 .col-lg-8    
                   h5.text-center.mb-0 Es recomendable que no solo se usa una sola técnica con los clientes, pues la integración estratégica de dos o más técnicas ayudará a un cierre efectivo de la venta. 
@@ -527,32 +558,32 @@
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img91.png', alt='')                
                 h4.text-white.text-center Herramientas #[b #[i Off line]]
                 ul.lista-ul--color
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Auditoría periódica de mercadeo.
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Comunicación corporativa.
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Reuniones con el equipo de ventas.
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Gestión de la marca.                                          
               .col-lg-4.bg6.rad.p-4.rw
                 img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img92.png', alt='')                
                 h4.text-white.text-center Herramientas #[b #[i On-line]]
                 ul.lista-ul--color
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Internet. 
-                  li 
+                  li.mb-0
                     i.lista-ul__vineta
                     p.mb-0.text-white #[i Software] para automatizar el #[i marketing.]
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white CRM (administrador de relaciones con el cliente).
-                  li 
+                  li.mb-0 
                     i.lista-ul__vineta
                     p.mb-0.text-white Herramientas de gestión de recursos.
 

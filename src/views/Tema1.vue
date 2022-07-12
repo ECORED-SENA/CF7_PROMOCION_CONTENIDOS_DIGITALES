@@ -88,43 +88,43 @@
     SlyderF.mb-5.px-5(columnas="col-lg-4")(data-aos="fade-right")
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img9.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img9.svg' alt='')
         p.text-center ¿Cómo puedo presentar mis productos y servicios desde la virtualidad? 
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img10.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img10.svg' alt='')
         p.text-center ¿Cómo haré la entrega del producto o la prestación del servicio?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img11.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img11.svg' alt='')
         p.text-center ¿Qué necesitan conocer de mí o del negocio?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img12.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img12.svg' alt='')
         p.text-center ¿Qué información necesitan mis clientes para tomar una decisión de compra?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img13.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img13.svg' alt='')
         p.text-center ¿Cómo me pagarán?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img14.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img14.svg' alt='')
         p.text-center ¿Qué información necesito de un cliente para venderle?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img15.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img15.svg' alt='')
         p.text-center ¿Cómo brindaré un valor agregado de mi producto o servicio?  
       .crd.crd--100.tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img.img-a.img-t(src='@/assets/curso/temas/img16.svg' alt='AvatarTop')
+          .col-12
+            img.img-a.img-t(src='@/assets/curso/temas/img16.svg' alt='')
         p.text-center ¿Cómo haré promoción de mi producto o servicio?
 
     p(data-aos="fade-down").mb-5 La dirección de la empresa, debe considerar cada una de estas variables, las cuales, pueden ser determinantes para el éxito del plan de #[i marketing]. 
@@ -191,7 +191,7 @@
       h2 1.3 Estructura de un plan de mercadeo
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-8
-        p(data-aos="fade-down").mb-5 El plan de mercadeo es interdisciplinario, pues en su elaboración intervienen diferentes áreas de la empresa, financiera, administrativa, operativa, etc. Así mismo, hay diferentes tamaños de empresas y tipos de organizaciones, lo que hace difícil estandarizar la estructura del plan de #[i marketing]. Las condiciones del entorno, las necesidades de los clientes, la cultura, el presupuesto, el portafolio de productos y servicios, entre otras variables, son determinantes al momento de crear el documento. 
+        p(data-aos="fade-down").mb-3 El plan de mercadeo es interdisciplinario, pues en su elaboración intervienen diferentes áreas de la empresa, financiera, administrativa, operativa, etc. Así mismo, hay diferentes tamaños de empresas y tipos de organizaciones, lo que hace difícil estandarizar la estructura del plan de #[i marketing]. Las condiciones del entorno, las necesidades de los clientes, la cultura, el presupuesto, el portafolio de productos y servicios, entre otras variables, son determinantes al momento de crear el documento. 
         .row.justify-content-start.align-items-center.mb-4        
           .col-auto.d-none.d-lg-block.p-0.ps-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.png', alt='')       
