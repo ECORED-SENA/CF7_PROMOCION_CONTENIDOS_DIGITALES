@@ -213,17 +213,17 @@
               .col-lg-7
                 p En esta fase, la empresa debe contemplar aspectos internos de la organización, tales como el talento humano, el rendimiento laboral del talento humano, la comunicación interna, comunicación con clientes, métodos de ventas, actividades de promoción, con el fin de comprender las dinámicas internas en relación con el proceso de ventas y portafolio de productos. De esta fase, surgen los elementos para el plan de mercadeo táctico.
               .col-lg-4
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img25.png', alt='')
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img25.png', alt='')
             .row.justify-content-center.align-items-center(numero="2" titulo="Análisis del mercado")
               .col-lg-7
                 p El análisis del mercado incluye la observación y vigilancia de las tendencias en el consumo, variables económicas que puedan afectar positiva o negativamente a la empresa, variables políticas, variables o cambios culturales y económicos; así como tendencias en la oferta y demanda de los productos del sector. De esta fase se desprenden ítems o tips para el plan de mercadeo estratégico.
               .col-lg-4
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img26.png', alt='')
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img26.png', alt='')
             .row.justify-content-center.align-items-center(numero="3" titulo="Análisis DOFA")
               .col-lg-11
                 p.mb-4 El análisis y diagnóstico DOFA, es una matriz que permite identificar las debilidades, oportunidades, fortalezas y amenazas que afecten la empresa. El DOFA permite elaborar planes de acción muy específicos para promover las fortalezas, disminuir las debilidades, aprovechar las oportunidades y contrarrestar las amenazas; además, este debe hacerse con la mayor sinceridad por parte de la dirección de la empresa, aún, si los resultados son negativos o presentan un panorama complejo para la empresa.
 
-                img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img27.svg', alt='')
+                img.img-a.img-t.mb-4(src='@/assets/curso/temas/img27.svg', alt='')
                 p.mb-4 Esta matriz puede variar según cada empresa, teniendo en cuenta que las oportunidades para la empresa A, pueden ser amenazas para la empresa B, aunque pertenezcan al mismo sector de mercado. En el siguiente video se puede ampliar un poco el concepto DOFA.
                 .row.justify-content-center.align-items-center          
                   .col-lg-12(data-aos="fade-left")     

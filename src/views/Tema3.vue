@@ -74,17 +74,17 @@
         .col-lg-3.bg1.rad.rw.p-4.my-3(data-aos="fade-left")
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img104.png', alt='')
           .text-center      
-            h5 Documentos públicos 
+            h4 Documentos públicos 
             p Escrituras, pagarés emitidos por notaría, etc.
         .col-lg-3.bg1.rad.rw.p-4.my-3(data-aos="fade-left")
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img105.png', alt='')
           .text-center      
-            h5 Documentos privados
+            h4 Documentos privados
             p Suscritos entre las partes, tales como: convenios, acuerdos, alianzas, entre otros.
         .col-lg-3.bg1.rad.rw.p-4.my-3(data-aos="fade-left")
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img106.png', alt='')
           .text-center      
-            h5 Documentos informativos
+            h4 Documentos informativos
             p Brindan información acerca de estado de un producto, de la empresa, informe, reporte, etc.
 
       p(data-aos="fade-down").mb-5.text-center El tipo de negociación definirá el tipo del documento para construir y el detalle de las formas de negociación.

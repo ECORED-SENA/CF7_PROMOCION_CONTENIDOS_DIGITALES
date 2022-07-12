@@ -199,7 +199,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.3 Estrategia y técnicas de ventas     
 
-    p(data-aos="fade-down").mb-5 La estrategia de ventas son acciones a mediano o largo plazo que buscan el cumplimiento de los objetivos del plan de mercadeo, plan de ventas o en sí, cualquier acción que emprenda la organización, conlleva la ejecución de estrategias. En este sentido, una estrategia es un conjunto de decisiones sobre actividades que la empresa debe ejecutar para alcanzar un objetivo planteado.
+    p(data-aos="fade-down").mb-3 La estrategia de ventas son acciones a mediano o largo plazo que buscan el cumplimiento de los objetivos del plan de mercadeo, plan de ventas o en sí, cualquier acción que emprenda la organización, conlleva la ejecución de estrategias. En este sentido, una estrategia es un conjunto de decisiones sobre actividades que la empresa debe ejecutar para alcanzar un objetivo planteado.
 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-4
@@ -289,7 +289,7 @@
                 p Estas acciones de promoción de ventas van dirigidas a los consumidores, de acuerdo con Mayo (2012) se deben tener en cuenta el tipo de mercado al cual va dirigido, los competidores, cuál es el objetivo de la acción promocional y los costos que demanda la actividad (p. 73). En la venta se llevan otras acciones como:
 
               .col-lg-4
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img68.png', alt='')              
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img68.png', alt='')              
               .col-lg-7
                 ul.lista-ul--color
                   li 
@@ -314,19 +314,19 @@
                 p En los canales de distribución se establecen relaciones entre los fabricantes y los intermediarios minoristas y mayoristas y proveedores y sobre ellos la empresa debe servirlos y dirigirles acciones que estimulen la compra. 
                 p Realizar estrategias de promoción dirigidas a los canales de distribución pretende varios propósitos.
                 .row.justify-content-center.align-items-stretch.my-4         
-                  .col-lg-3.bg8.pf.text-white.p-4(data-aos="fade-left")
-                    p.text-center(data-aos="fade-down").mb-0 Obtener la distribución inicial. 
+                  .col-lg-3.bg8.pf.text-white.p-4
+                    p.text-center.mb-0 Obtener la distribución inicial. 
 
-                  .col-lg-3.bg9.pf.text-white.p-4(data-aos="fade-down")
-                    p.text-center(data-aos="fade-down").mb-0 Incrementar el número y tamaño de los pedidos.
+                  .col-lg-3.bg9.pf.text-white.p-4
+                    p.text-center.mb-0 Incrementar el número y tamaño de los pedidos.
 
-                  .col-lg-3.bg8.pf.text-white.p-4(data-aos="fade-right")
-                    p.text-center(data-aos="fade-down").mb-0 Fomentar la participación del canal en las promociones al consumidor. 
+                  .col-lg-3.bg8.pf.text-white.p-4
+                    p.text-center.mb-0 Fomentar la participación del canal en las promociones al consumidor. 
 
-                  .col-lg-3.bg9.pf.text-white.p-4(data-aos="fade-down")
-                    p.text-center(data-aos="fade-down").mb-0 Incrementar el tráfico en el establecimiento.                                             
+                  .col-lg-3.bg9.pf.text-white.p-4
+                    p.text-center.mb-0 Incrementar el tráfico en el establecimiento.                                             
               .col-lg-4
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img69.png', alt='')              
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img69.png', alt='')              
               .col-lg-7
                 h5 Estas acciones se enumeran:
                 ul.lista-ul--color
@@ -344,21 +344,21 @@
                     p.mb-0 Realizar ferias periódicas entre intermediarios. 
             .row.justify-content-center.align-items-center(numero="3" titulo="La fuerza de ventas")
               .col-lg-4
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img70.png', alt='')              
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img70.png', alt='')              
               .col-lg-7
                 p Es el motor de la empresa y sobre la cual recae la responsabilidad de cumplimiento de la cuota de ventas. Esta fuerza de ventas, de acuerdo con Mayo (2012), “se compone de todas aquellas personas cuya principal misión es la promoción y colocación de productos” (p. 81). 
                 p La fuerza de ventas genera una serie de actividades para su conformación y puesta a punto para el logro de los resultados de ventas. Entre ellas se tienen:
               .col-lg-11                
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img71.png', alt='')              
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img71.png', alt='')              
 
             .row.justify-content-center.align-items-center(numero="4" titulo="Técnicas de ventas")
               .col-lg-5
-                img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img72.png', alt='')
+                img.img-a.img-t.mb-4(src='@/assets/curso/temas/img72.png', alt='')
                 p Las técnicas de ventas son una serie de procedimientos, acciones y protocolos para lograr el resultado de ventas. Estas técnicas de ventas acompañan al vendedor al realizar el proceso de la venta dependiendo el tipo de venta: técnica o no técnica. 
 
                 p No todas las técnicas son exitosas para todos los tipos de negocios, es importante tener claridad en los objetivos de la empresa y en las necesidades del cliente, de esta forma aplicar la estrategia correcta.               
               .col-lg-6
-                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img73.png', alt='')
+                img.img-a.img-t.my-3(src='@/assets/curso/temas/img73.png', alt='')
 
       h5(data-aos="fade-down").my-5.text-center Sin un orden en particular, estas son algunas técnicas más utilizadas:
     .row.justify-content-center.align-items-center
