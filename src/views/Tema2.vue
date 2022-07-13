@@ -42,7 +42,7 @@
       .col-lg-6
         p(data-aos="fade-down") Otros autores también presentan otros conceptos y definiciones, para Heller (s. f.), es el “cambio de productos y servicios por dinero”. Desde el ámbito legal, se trata de la transferencia de la posesión de un bien a otro consumidor, a cambio de dinero y, finalmente, desde el ámbito contable y financiero, la venta es el costo total pagado por productos o servicios prestados.
 
-        p(data-aos="fade-down") Para la realización de la venta debe tenerse en cuenta varias etapas y a partir de ahí desencadenan el proceso transaccional para el intercambio de bienes. La venta tiene varias etapas, definidas por el grado de interacción del vendedor con el cliente. Estas etapas son: etapa de preventa, etapa de ventas y etapa de postventa, las cuales se analizarán más adelante.
+        p(data-aos="fade-down") Para la realización de la venta debe tenerse en cuenta varias etapas y a partir de ahí desencadenan el proceso transaccional para el intercambio de bienes. La venta tiene varias etapas, definidas por el grado de interacción del vendedor con el cliente. Estas etapas son: etapa de preventa, etapa de ventas y etapa de posventa, las cuales se analizarán más adelante.
 
       .col-lg-6
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img36.png', alt='')
@@ -158,8 +158,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/img52.png', alt='')      
           .col-lg-6
             h5 Acercamiento 
-            p Con el listado organizado o base de datos, se debe comenzar con un conocimiento profundo de los clientes 
-            p potenciales. Se debe encontrar la forma de familiarizarse con ellos, identificar sus necesidades, hábitos de compra, intereses, entre otros. 
+            p Con el listado organizado o base de datos, se debe comenzar con un conocimiento profundo de los clientes potenciales. Se debe encontrar la forma de familiarizarse con ellos, identificar sus necesidades, hábitos de compra, intereses, entre otros. 
 
             p Dentro del proceso de segmentación, hay actividades que pueden apoyar ese conocimiento profundo, mediante encuestas, llamadas telefónicas, consulta personal, entre otros. Es importante obtener datos básicos como nombre, edad, ciudad de vivienda, profesión, intereses, entre otros. 
 
@@ -170,7 +169,7 @@
             h5 Calificación 
             p En el proceso de calificación se decide si el prospecto puede ser o no un cliente potencial. Durante la consulta, se puede identificar si el prospecto podría comprar el producto analizando sus intereses y presupuesto para la compra. 
 
-            p También es importante identificar si el prospecto solo está interesado (atención), ya ha consultado acerca del producto (investigación), está apunto de comprarlo (decisión) o ya compró por exploración u otra razón (acción).
+            p También es importante identificar si el prospecto solo está interesado (atención), ya ha consultado acerca del producto (investigación), está a punto de comprarlo (decisión) o ya compró por exploración u otra razón (acción).
 
         .row.justify-content-center.align-items-center(titulo="Presentación de la oferta")
           .col-lg-6
@@ -210,7 +209,7 @@
             h5 Servicio posventa 
             p Esta fase del proceso tiene un objetivo muy claro y es fidelizar al cliente para que realice compras recurrentes del producto. Mantener un cliente puede resultar más costoso que un cliente nuevo, pero eso debe significar que el cliente antiguo genera mayores ingresos gracias a la recompra del producto. 
 
-            p Entre las actividades que componen el servicio postventa están el envío de correos electrónicos, llamadas periódicas de seguimiento, encuestas o consultas de satisfacción, ofrecer mayores beneficios con la recompra o la recomendación, entre otras.
+            p Entre las actividades que componen el servicio posventa están el envío de correos electrónicos, llamadas periódicas de seguimiento, encuestas o consultas de satisfacción, ofrecer mayores beneficios con la recompra o la recomendación, entre otras.
 
     p(data-aos="fade-down").mb-5 Los pasos anteriores consolidarán las bases para fortalecer una relación de confianza y que más adelante permita ofrecerle al cliente otros productos. El proceso de venta no siempre se desarrolla en un orden lógico, son los clientes quienes condicionan este relacionamiento, y es una competencia del vendedor identificar qué debe hacer en cada una de ellas.           
 
@@ -392,7 +391,7 @@
               .col-auto.d-none.d-lg-block.p-0.ps-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img75.png', alt='')       
               .col-lg-10
-                p(data-aos="fade-down").mb-0 El término SPIN significa: situación, problema, indagación y necesidad. Está técnica tiene como objetivo crear un entorno de confianza con los clientes potenciales para comprenderlos y ofrecerles lo que necesitan. La propuesta incluye realizar algunas preguntas, de acuerdo con cada término, que permitan conocer a los clientes, así:
+                p(data-aos="fade-down").mb-0 El término SPIN significa: situación, problema, indagación y necesidad. Esta técnica tiene como objetivo crear un entorno de confianza con los clientes potenciales para comprenderlos y ofrecerles lo que necesitan. La propuesta incluye realizar algunas preguntas, de acuerdo con cada término, que permitan conocer a los clientes, así:
 
             .row.justify-content-center.align-items-stretch.mb-5
               .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-5.pb-0(data-aos="fade-right")
@@ -541,7 +540,7 @@
             .col-lg-12.bg14.p-5.px-0
               .row.justify-content-center.align-items-center  
                 .col-lg-8    
-                  h5.text-center.mb-0 Es recomendable que no solo se usa una sola técnica con los clientes, pues la integración estratégica de dos o más técnicas ayudará a un cierre efectivo de la venta. 
+                  h5.text-center.mb-0 Es recomendable que no solo se use una sola técnica con los clientes, pues la integración estratégica de dos o más técnicas ayudará a un cierre efectivo de la venta. 
         .row.justify-content-center.align-items-center  
           .col-lg-10
             .row.justify-content-start.align-items-center.pt-4.mb-4(data-aos="flip-down")
@@ -592,7 +591,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/LFh9Mk5woFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/D2Guz9_4dwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                 
 </template>
 
 <script>

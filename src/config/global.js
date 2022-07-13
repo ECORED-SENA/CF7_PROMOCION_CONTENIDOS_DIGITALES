@@ -210,14 +210,14 @@ export default {
     {
       tema: 'Las Ventas',
       referencia:
-        'Kotler, P., Armstrong, G., Gay, M. G. M., y Cantú, R. G. C. (2017). Fundamentos de marketing. Pearson Educación.',
+        'Kotler, P., Armstrong, G., Gay, M. G. M., y Cantú, R. G. C. (2017). Fundamentos de <i>marketing</i>. Pearson Educación.',
       tipo: 'Libro',
       descarga: '/downloads/Fundamentos-del-Marketing-Kotler.pdf',
     },
     {
       tema: 'Propuesta comercial',
       referencia:
-        'Keller, K. L., y Kotler, P. (2012). Dirección de marketing. Pearson Educación.',
+        'Keller, K. L., y Kotler, P. (2012). Dirección de <i>marketing</i>. Pearson Educación.',
       tipo: 'Libro',
       descarga: '/downloads/direccion-de-marketing-14edi-kotler1.pdf',
     },
@@ -272,7 +272,7 @@ export default {
     {
       termino: 'Proceso de ventas',
       significado:
-        'sucesión de pasos que una empresa realiza desde el momento en que intenta captar la atención de un potencial cliente hasta que la transacción final se lleva a cabo (Inboundcycle).',
+        'sucesión de pasos que una empresa realiza desde el momento en que intenta captar la atención de un potencial cliente hasta que la transacción final se lleva a cabo (<i>Inboundcycle</i>).',
     },
     {
       termino: 'Técnicas de venta',
@@ -303,12 +303,13 @@ export default {
         'Kotler, P., Armstrong, G., Gay, M. G. M., y Cantú, R. G. C. (2017). Fundamentos de marketing. Pearson Educación.',
     },
     {
-      referencia: 'Madurga, J. (2015). Semrush.',
+      referencia:
+        'Madurga, J. (2015). Semrush. Estrategias de venta: ¿cómo superar a tu competencia?',
       link:
         'https://es.semrush.com/blog/estrategia-ventas-superar-competencia/',
     },
     {
-      referencia: 'Marketing XXI. (s. f). Marketing.',
+      referencia: 'Marketing XXI. (s. f.). Marketing.',
       link: 'https://www.marketing-xxi.com/',
     },
     {

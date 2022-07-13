@@ -268,7 +268,7 @@
                         th Estrategia
                         th Acción
                         th Precio de inversión (fijo)
-                        th ERango de inversión (variable)
+                        th Rango de inversión (variable)
 
                     tbody
                       tr.bgta
@@ -283,7 +283,7 @@
                               span #[i Landing pages.]
                             li 
                               span.g ● 
-                              span #[i Copywritter.]
+                              span #[i Copywriter.]
                         td 
                           ul
                             li 
